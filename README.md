@@ -1,6 +1,12 @@
 # Login-App
 
-### Rules:
+| Nama                         | NRP          |
+| ---------------------------- | ------------ |
+| Cindi Dwi Pramudita          | 5025201042   |
 
-1. The username can have max 10 characters
-2. The password must have at least 8 characters
+### Aturan:
+
+1. username maksimal 10 karakter 
+2. password minimal 8 karakter
+
+

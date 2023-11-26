@@ -1,8 +1,8 @@
 # Login-App
 
-| Nama                         | NRP          |
-| ---------------------------- | ------------ |
-| Cindi Dwi Pramudita          | 5025201042   |
+| Nama                                | NRP          |
+| ----------------------------------- | ------------ |
+| Alifio Yudhistira Aji Salis         | 5025201042   |
 
 ### Aturan:
 

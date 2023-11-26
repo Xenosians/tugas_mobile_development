@@ -1,8 +1,8 @@
 # Login-App
 
-| Nama                                | NRP          |
+| Nama                                | NIM          |
 | ----------------------------------- | ------------ |
-| Alifio Yudhistira Aji Salis         | 5025201042   |
+| Alifio Yudhistira Aji Salis         | 1301204029   |
 
 ### Aturan:
 
